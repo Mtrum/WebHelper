@@ -25,7 +25,7 @@ List of features ready and TODOs for future development
 * Positioning section
 
 ## Launch
-You can reach the site at (https://mtrum.github.io/WebHelper/)
+You can reach the site at (https://mtrum.github.io/WebHelper/index.html)
 
 ## Inspiration
 This project is inspired by and made for the _Full-Stack Engineer Career Path_ from (https://www.codecademy.com)
